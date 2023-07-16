@@ -29,5 +29,8 @@ A passionate software engineering student with good practicals in coursework ski
     <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noopener noreferrer" style="text-decoration: none;"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="C" width="50px" height="50px" /></a>
     <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank" rel="noopener noreferrer" style="text-decoration: none;"><img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++" width="50px" height="50px" /></a>
     <a href="https://www.java.com/" target="_blank" rel="noopener noreferrer" style="text-decoration: none;"><img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" alt="Java" width="50px" height="50px" /></a>
+  <a href="https://en.wikipedia.org/wiki/SQL" target="_blank" rel="noopener noreferrer" style="text-decoration: none;"><img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Sql_Microsoft_Office_Access.svg" alt="SQL" width="50px" height="50px" /></a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noopener noreferrer" style="text-decoration: none;"><img src="https://upload.wikimedia.org/wikipedia/en/6/62/MySQL.svg" alt="MySQL" width="50px" height="50px" /></a>
+  <a href="https://laravel.com/" target="_blank" rel="noopener noreferrer" style="text-decoration: none;"><img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" alt="Laravel" width="50px" height="50px" /></a>
 </div>
 
