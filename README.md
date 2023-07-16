@@ -13,7 +13,7 @@ You can visit my portfolio website @ <a href="http://roberto-georges.vercel.app"
 💬 Ask or advice me on Computer Science (3rd - Year Student, TUM, Kenya)
 
 ## About
-A passionate software engineering student with good practicals in coursework skills in computer science. I thrive in designing cutting-edge software solutions suited to the particular needs of both organizations and individuals. My area of expertise is in the design and development of efficient ansd stylish apps. I am committed to providing high-quality, trustworthy, and user-centric software solutions by using my expertise in many programming languages and technologies.
+A passionate computer science student with good practicals in coursework skills especially in Software Engineering. I thrive in designing cutting-edge software solutions suited to the particular needs of both organizations and individuals. My area of expertise is in the design and development of efficient ansd stylish apps. I am committed to providing high-quality, trustworthy, and user-centric software solutions by using my expertise in many programming languages and technologies.
 
 ## Technologies
 <div style="display: grid; grid-template-columns: repeat(6, 1fr); grid-gap: 10px;">
@@ -29,7 +29,6 @@ A passionate software engineering student with good practicals in coursework ski
     <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noopener noreferrer" style="text-decoration: none;"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="C" width="50px" height="50px" /></a>
     <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank" rel="noopener noreferrer" style="text-decoration: none;"><img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++" width="50px" height="50px" /></a>
     <a href="https://www.java.com/" target="_blank" rel="noopener noreferrer" style="text-decoration: none;"><img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" alt="Java" width="50px" height="50px" /></a>
-    <a href=""C:\Users\Ace\Pictures\Saved Pictures\mysql.png"" target="_blank" rel="noopener noreferrer" style="text-decoration: none;"><img src="https://upload.wikimedia.org/wikipedia/en/6/62/MySQL.svg" alt="MySQL" width="50px" height="50px" /></a>
     <a href="https://laravel.com/" target="_blank" rel="noopener noreferrer" style="text-decoration: none;"><img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" alt="Laravel" width="50px" height="50px" /></a>
 </div>
 
