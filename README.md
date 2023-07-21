@@ -32,3 +32,8 @@ A passionate computer science student with good practicals in coursework skills 
     <a href="https://laravel.com/" target="_blank" rel="noopener noreferrer" style="text-decoration: none;"><img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" alt="Laravel" width="50px" height="50px" /></a>
 </div>
 
+### GitHub Analytics
+ 
+<img width="400" src="https://github-readme-stats.vercel.app/api?username=georgesroberto&count_private=true&show_icons=true&theme=react" />  <img width="425" src="https://streak-stats.demolab.com/?user=georgesroberto&theme=react" />
+<img width="830" src="https://github-readme-activity-graph.vercel.app/graph?username=georgesroberto&bg_color=21232a&color=a8eeff&line=61dafb&point=f0fcff&area=true&hide_border=false" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=georgesroberto&layout=compact&langs_count=7&theme=dracula"/>
