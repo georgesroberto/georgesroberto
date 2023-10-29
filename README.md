@@ -11,7 +11,6 @@ You can visit my portfolio website @ <a href="http://roberto-georges.vercel.app"
   <li>Call me @ <a href="tel:+254796807438">+254796807438</a></li>
 </ol> 
 
-
 💬 Ask or advice me on Computer Science (3rd - Year Student, TUM, Kenya)
 
 ## About
