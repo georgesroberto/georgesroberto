@@ -11,7 +11,7 @@ You can visit my portfolio website @<a href="http://roberto-georges.vercel.app">
   <li>Call me @ <a href="tel:+254796807438">+254796807438</a></li>
 </ol> 
 
-💬 Ask or advice me on Computer Science (3rd - Year Student, TUM, Kenya)
+💬 Ask or advice me on Computer Science 
 
 ## About
 A passionate computer science student with good practicals in coursework skills especially in Software Engineering. I thrive in designing cutting-edge software solutions suited to the particular needs of both organizations and individuals. My area of expertise is in the design and development of efficient ansd stylish apps. I am committed to providing high-quality, trustworthy, and user-centric software solutions by using my expertise in many programming languages and technologies.
