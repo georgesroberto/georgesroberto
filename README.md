@@ -1,4 +1,4 @@
-# Hello👋, George here
+# Hello👋, Georges here
 
 You can visit my portfolio website @<a href="http://roberto-georges.vercel.app">http://roberto-georges.vercel.app</a>
 
