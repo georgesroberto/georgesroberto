@@ -1,20 +1,18 @@
-# Hello👋, Georges here
+👋, It's Georges
 
-You can visit my portfolio @<a href="http://roberto-georges.vercel.app">http://roberto-georges.vercel.app</a>
+You can visit my portfolio (here)[http://roberto-georges.vercel.app]
 
 <img align="right" alt="Coding" width="400" src="https://img.hiddenbrains.com/public/local-cdn/images/page_images/hire-laravel-banner.webp" alt="Sir. Georges">
 
-📫 You can also contact me directly via:
-<ol>
-  <li>Gmail @ <a href="mailto:georgesroberto21@gmail.com">georgesroberto21@gmail.com</a></li>
-  <li>WhatsApp @ <a href="http://wa.me/+254796807438">+254796807438</a></li>
-  <li>Call me @ <a href="tel:+254796807438">+254796807438</a></li>
-</ol> 
+📫 Contact me directly via:
+1. Gmail @ <a href="mailto:georgesroberto21@gmail.com">georgesroberto21@gmail.com</a></li>
+2. WhatsApp @ <a href="http://wa.me/+254796807438">+254796807438</a></li>
+3. <li>Call me @ <a href="tel:+254796807438">+254796807438</a></li>
 
 💬 Ask or advice me on Computer Science 
 
 ## About
-A passionate computer science student with good practicals in coursework skills especially in Software Engineering. I thrive in designing cutting-edge software solutions suited to the particular needs of both organizations and individuals. My area of expertise is in the design and development of efficient ansd stylish apps. I am committed to providing high-quality, trustworthy, and user-centric software solutions by using my expertise in many programming languages and technologies.
+A passionate computer science student with good practicals in coursework skills especially in Software Engineering. I thrive in designing cutting-edge software solutions suited to the particular needs of both organizations and individuals. My area of expertise is in the design and development of efficient ansd stylish websites and mobile apps. I am committed to providing high-quality, trustworthy, and user-centric software solutions by using my expertise in many programming languages and technologies.
 
 ## Technologies
 <div style="display: grid; grid-template-columns: repeat(6, 1fr); grid-gap: 10px;">
