@@ -1,13 +1,13 @@
-👋, It's Georges
+# 👋, It's Georges
 
 You can visit my portfolio (here)[http://roberto-georges.vercel.app]
 
 <img align="right" alt="Coding" width="400" src="https://img.hiddenbrains.com/public/local-cdn/images/page_images/hire-laravel-banner.webp" alt="Sir. Georges">
 
 📫 Contact me directly via:
-1. Gmail @ <a href="mailto:georgesroberto21@gmail.com">georgesroberto21@gmail.com</a></li>
-2. WhatsApp @ <a href="http://wa.me/+254796807438">+254796807438</a></li>
-3. <li>Call me @ <a href="tel:+254796807438">+254796807438</a></li>
+1. Gmail @ <a href="mailto:georgesroberto21@gmail.com">georgesroberto21@gmail.com</a>
+2. WhatsApp @ <a href="http://wa.me/+254796807438">+254796807438</a>
+3. Call me @ <a href="tel:+254796807438">+254796807438</a>
 
 💬 Ask or advice me on Computer Science 
 
